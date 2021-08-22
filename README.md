@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wassim93
-- 👀 I’m interested in developing mobile apps 
+- 👀 I’m interested in  developing mobile apps (Android/IOS)
 - 🌱 I’m currently learning swiftUI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+- Email: wassim.benhassen@esprit.tn
 
 <!---
 wassim93/wassim93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
