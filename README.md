@@ -1,9 +1,18 @@
-## Hey! 👋
--  I’m @wassim93
-- 👀 I’m interested in  developing mobile apps (Android/IOS)
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey 👋 Nice to see you </h1>
 
-:page_with_curl: I'm currently learning:
-<br><br>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=wassim93" alt="wassim93"/>       
+    <a href="https://github.com/wassim93?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/wassim93" alt="wassim93"/></a> 
+    <img src="https://badges.pufler.dev/years/wassim93" alt="Monthy commits"/>  
+    <img src="https://badges.pufler.dev/commits/monthly/wassim93" alt="wassim93"/>   
+    <a href="https://github.com/wassim93?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/wassim93?color=4C1&logo=github"></a>
+    <a href="https://github.com/wassim93/wassim93" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/wassim93/wassim93?label=Profile%20update&style=fflat-square"></a>
+</p> 
+
+###  I’m @wassim93
+### 👀 I’m interested in  developing mobile apps (Android/IOS)
+
+### :page_with_curl: I'm currently learning:<br><br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
