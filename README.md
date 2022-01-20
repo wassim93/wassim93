@@ -35,25 +35,25 @@
 ### 💥 Mobile Projects (IOS/ANDROID)
 <br>
 <a href="https://github.com/wassim93/instagram-clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=instagram-clone&show_owner=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=instagram-clone&show_owner=true&theme=synthwave" />
 </a>
 <a href="https://github.com/wassim93/ECommerceApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=ECommerceApp&show_owner=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=ECommerceApp&show_owner=true&theme=synthwave" />
 </a>
 <a href="https://github.com/wassim93/pokedex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=pokedex&show_owner=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=pokedex&show_owner=true&theme=synthwave"/>
 </a>
 <a href="https://github.com/wassim93/WeatherApp-IOS-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=WeatherApp-IOS-&show_owner=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=WeatherApp-IOS-&show_owner=true&theme=synthwave"/>
 </a>
 <a href="https://github.com/wassim93/3Dprinter-Android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=3Dprinter-Android&show_owner=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=3Dprinter-Android&show_owner=true&theme=synthwave"/>
 </a>
 <a href="https://github.com/wassim93/Android-TestApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=Android-TestApp&show_owner=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=Android-TestApp&show_owner=true&theme=synthwave"/>
 </a>
 <a href="https://github.com/wassim93/Tuni-Rando">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=Tuni-Rando&show_owner=true&theme=react"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=Tuni-Rando&show_owner=true&theme=synthwave"/>
 </a>
 
 
