@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wassim93
 - 👀 I’m interested in  developing mobile apps (Android/IOS)
-- 🌱 I’m currently learning swiftUI
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me 
 - Email: wassim.benhassen@esprit.tn
 
