@@ -32,6 +32,31 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=pixabay_search_image&show_owner=true&theme=react"/>
 </a>
 
+### 💥 Mobile Projects (IOS/ANDROID)
+<br>
+<a href="https://github.com/wassim93/instagram-clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=instagram-clone&show_owner=true&theme=react" />
+</a>
+<a href="https://github.com/wassim93/ECommerceApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=ECommerceApp&show_owner=true&theme=react" />
+</a>
+<a href="https://github.com/wassim93/pokedex">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=pokedex&show_owner=true&theme=react"/>
+</a>
+<a href="https://github.com/wassim93/WeatherApp-IOS-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=WeatherApp-IOS-&show_owner=true&theme=react"/>
+</a>
+<a href="https://github.com/wassim93/3Dprinter-Android">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=3Dprinter-Android&show_owner=true&theme=react"/>
+</a>
+<a href="https://github.com/wassim93/Android-TestApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=Android-TestApp&show_owner=true&theme=react"/>
+</a>
+<a href="https://github.com/wassim93/Tuni-Rando">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=Tuni-Rando&show_owner=true&theme=react"/>
+</a>
+
+
 ### 📬 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/wassim93) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wassimbh/)](https://www.linkedin.com/in/hemanthkollipara)
@@ -42,12 +67,9 @@
 
 ### 🚀 Quick Stats
 <br>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=wassim93&theme=radical&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim93&theme=radical&show_icons=true&layout=compact&langs_count=8" />
-</p>
 
-
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=wassim93&theme=radical&show_icons=true&layout=compact" alt="" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim93&theme=radical&show_icons=true&layout=compact&langs_count=8" /></a> |
+| ------------- | ------------- |
 
 <!---
 wassim93/wassim93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
