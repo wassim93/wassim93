@@ -11,7 +11,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-<summary> 💥 React Projects  </summary>
+### 💥 React Projects
 <br>
 <a href="https://github.com/wassim93/amazon-clone">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=amazon-clone&show_owner=true&theme=react" />
@@ -38,9 +38,12 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/6073064/wassiim-ben-hssen)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wassim.benhassen@esprit.tn)](mailto:defcon.sentinal95@gmail.com)
 
+
+
 ### 🚀 Quick Stats
-<p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=wassim93&theme=radical&show_icons=true" />
+<br>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=wassim93&theme=radical&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim93&theme=radical&show_icons=true&layout=compact&langs_count=8" />
 </p>
 
