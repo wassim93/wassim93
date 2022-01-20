@@ -11,44 +11,40 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-![mpa](https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=amazon-clone&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true&theme=radical&show_icons=true)
-
-
-<a href="https://github.com/wassim93">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim93&theme=radical&show_icons=true&layout=compact&langs_count=8" />
+<summary> 💥 React Projects  </summary>
+<br>
+<a href="https://github.com/wassim93/amazon-clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=amazon-clone&show_owner=true&theme=react" />
 </a>
-  
-<a href="https://github.com/wassim93">
-  <img  src="https://github-readme-stats.vercel.app/api?username=wassim93&theme=radical&show_icons=true" />
+<a href="https://github.com/wassim93/disney-clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=disney-clone&show_owner=true&theme=react" />
 </a>
-  
-<a href="https://github.com/wassim93">
-  <img  src="(https://github-readme-streak-stats.herokuapp.com?user=wassim93&theme=radical)" />
+<a href="https://github.com/wassim93/netflix-clone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=netflix-clone&show_owner=true&theme=react"/>
 </a>
-  
-  
-  
-  
-  
-  
- 
+<a href="https://github.com/wassim93/lyric_search-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=lyric_search-&show_owner=true&theme=react"/>
+</a>
+<a href="https://github.com/wassim93/breaking_bad">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=breaking_bad&show_owner=true&theme=react"/>
+</a>
+<a href="https://github.com/wassim93/pixabay_search_image">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=pixabay_search_image&show_owner=true&theme=react"/>
+</a>
+
+### 📬 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/wassim93) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wassimbh/)](https://www.linkedin.com/in/hemanthkollipara)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)](https://stackoverflow.com/users/6073064/wassiim-ben-hssen)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wassim.benhassen@esprit.tn)](mailto:defcon.sentinal95@gmail.com)
+
+### 🚀 Quick Stats
+<p align="center">
+    <img  src="https://github-readme-stats.vercel.app/api?username=wassim93&theme=radical&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim93&theme=radical&show_icons=true&layout=compact&langs_count=8" />
+</p>
 
 
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wassim93&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 through 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 or social media
-
-* Social Media
-
-  <a href="https://www.linkedin.com/in/wassimbh/" target="blank"><img align="center" src="https://lahuertadigital.es/wp-content/uploads/2015/10/linkedin.png" height="30" /></a>
-  <a href="https://www.instagram.com/wassimbh9/" target="blank"><img align="center" src="https://cutewallpaper.org/24/insta-png/download-logo-instagram-free-png-transparent-image-and-clipart.png" height="30" /></a>
-
-* Email: wassim.benhassen@esprit.tn
 
 <!---
 wassim93/wassim93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
