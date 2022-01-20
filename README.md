@@ -68,7 +68,7 @@
 ### 🚀 Quick Stats
 <br>
 
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=wassim93&theme=radical&show_icons=true&layout=compact" alt="" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim93&theme=radical&show_icons=true&layout=compact&langs_count=8" /></a> |
+| <a href="https://github.com/wassim93"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wassim93&theme=radical&show_icons=true&layout=compact" alt="" /></a> | <a href="https://github.com/wassim93"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim93&theme=radical&show_icons=true&layout=compact&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 <!---
