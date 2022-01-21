@@ -52,6 +52,9 @@
 <a href="https://github.com/wassim93/pokedex">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=pokedex&show_owner=true&theme=panda"/>
 </a>
+<a href="https://github.com/wassim93/infiniteScrollSwifUI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=infiniteScrollSwifUI&show_owner=true&theme=panda"/>
+</a>
 <a href="https://github.com/wassim93/WeatherApp-IOS-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=WeatherApp-IOS-&show_owner=true&theme=panda"/>
 </a>
