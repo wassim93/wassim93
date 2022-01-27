@@ -1,7 +1,6 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey 👋 Nice to see you </h1>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=wassim93" alt="wassim93"/>       
     <a href="https://github.com/wassim93?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/wassim93" alt="wassim93"/></a> 
     <img src="https://badges.pufler.dev/years/wassim93" alt="Monthy commits"/>  
     <img src="https://badges.pufler.dev/commits/monthly/wassim93" alt="wassim93"/>   
@@ -50,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=ECommerceApp&show_owner=true&theme=panda" />
 </a>
 <a href="https://github.com/wassim93/pokedex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=pokedex&show_owner=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=pokedex&show_owner=true&theme=panda"/>
 </a>
 <a href="https://github.com/wassim93/infiniteScrollSwifUI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=infiniteScrollSwifUI&show_owner=true&theme=panda"/>
