@@ -21,6 +21,10 @@
 
 ### 💥 React Projects
 <br>
+
+<a href="https://github.com/wassim93/covid-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=covid-tracker&show_owner=true&theme=react" />
+</a>
 <a href="https://github.com/wassim93/amazon-clone">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim93&repo=amazon-clone&show_owner=true&theme=react" />
 </a>
