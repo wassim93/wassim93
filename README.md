@@ -8,7 +8,6 @@
     <a href="https://github.com/wassim93/wassim93" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/wassim93/wassim93?label=Profile%20update&style=fflat-square"></a>
 </p> 
 
-###  I’m @wassim93
 ### 👀 I’m interested in  developing mobile apps (Android/IOS)
 
 ### :page_with_curl: I'm currently learning:<br><br>
