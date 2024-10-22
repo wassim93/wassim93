@@ -8,14 +8,17 @@
     <a href="https://github.com/wassim93/wassim93" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/wassim93/wassim93?label=Profile%20update&style=fflat-square"></a>
 </p> 
 
-### 👀 I’m interested in  developing mobile apps (Android/IOS)
+### 👀 Software developer currently focusing on web development
 
-### :page_with_curl: I'm currently learning:<br><br>
+### :page_with_curl: Technologies:<br><br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![laravel](https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=laravel&logoColor=white)
+![VueJs](https://img.shields.io/badge/laravel-orange?style=for-the-badge&logo=vue&logoColor=white)
+
 
 
 ### 💥 React Projects
